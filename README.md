@@ -118,6 +118,5 @@ Most resume builders are paywalled, most job boards are noise, and most posting 
 
 - 🌐 Live: **[resumeveloce.com](https://resumeveloce.com)**
 - 💼 LinkedIn: [vishva-teja-janne](https://www.linkedin.com/in/vishva-teja-janne/)
-- 📧 jvishvateja26@gmail.com
 
 If you'd like a code walkthrough, I'm happy to share a screen-share or selected snippets — just reach out.
